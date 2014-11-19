@@ -433,6 +433,13 @@ Firefox Nightly поддерживали свойство `will-change`. Так�
 Брюсу Лоусону (Bruce Lawson) и Матиасу Биненсу (Mathias Bynens) за 
 рецензирование статьи.*
 
+<section class="gratitude-block gratitude-block-ok">
+  <a title="Ссылка на блог компании" href="http://weareok.ru/">
+    <img src="img/ok.svg" alt="Логотип компании «Одноклассники»">
+  </a>
+  <p>Статья переведена благодаря спонсорской поддержке компании «<a title="Ссылка на блог компании" href="http://weareok.ru/">Одноклассники</a>».</p>
+</section>
+
 [1]: http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/
 [2]: http://reference.sitepoint.com/css/stacking
 [3]: http://www.w3.org/TR/CSS2/zindex.html
